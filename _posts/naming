@@ -6,5 +6,7 @@ date:   2014-12-24 14:02:01
 categories: vagrant
 ---
 
+In our goal for a more perfect Vagrant setup, we realized that when we updated our Vagrant box image no one would recieve the updated box.  This is primarily because Vagrant will cache a box and wont acknowledge new version of this box.  Therefore we started looking at how to version the boxes.
+
 
 
