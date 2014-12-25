@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Born on the west coast, I grew up in Virginia Beach. I'm not a DevOps Engineer at a technology company in Durham, North Carolina.
+Born on the west coast, I grew up in Virginia Beach. I'm a DevOps Engineer at a technology company in Durham, North Carolina. 
 
 I met my lovely wife while in college and we married shortly after I graduated college. 
 
