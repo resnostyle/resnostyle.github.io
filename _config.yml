@@ -10,3 +10,19 @@ github_username:  bryanwp
 
 # Build settings
 markdown: kramdown
+
+#Rakefile configs
+post:
+  template: _post.txt
+  extension: markdown
+page:
+  template: _page.txt
+  extension: md
+editor: gvim
+git:
+  branch: master
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/
+  destination: ~/Git/username.github.com/
