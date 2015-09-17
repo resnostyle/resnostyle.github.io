@@ -1,11 +1,11 @@
 # Site settings
-title: BryanWP
+title: BryanWP by BryanWP
 email: bwp.pearson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm just a guy poking the internet one byte at a time.
+    Full-stack systems engineer at ReverbNation.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-twitter_username: bryanwp
+twitter_username: 
 github_username:  bryanwp
 
 # Build settings
