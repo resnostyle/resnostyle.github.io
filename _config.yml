@@ -2,11 +2,11 @@
 title: BryanWP 
 email: bwp.pearson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    Full-stack systems engineer at ReverbNation.
+    System Engineer
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  bryanwp
+github_username:  resnostyle
 
 # Build settings
 markdown: kramdown
